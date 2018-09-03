@@ -1,1 +1,1 @@
-Implementation for bubble sort/.
+Implementation for Insertion sort/.
